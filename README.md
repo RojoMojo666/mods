@@ -38,3 +38,32 @@ If the log reports **REFUSE**, **ERR** or **FATAL**, retain the log and follow t
 6. Only then remove the Fire & Fall package and its helper, then deploy again.
 
 Follow these restoration steps before replacing the package, switching to a conflicting mod or updating the game.
+
+## Variants
+
+| Fire protection | Fall protection | Download |
+| --- | --- | --- |
+| 0% | 25% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-0-Fall-25.zip) |
+| 0% | 50% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-0-Fall-50.zip) |
+| 0% | 75% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-0-Fall-75.zip) |
+| 0% | 100% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-0-Fall-100.zip) |
+| 25% | 0% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-25-Fall-0.zip) |
+| 25% | 25% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-25-Fall-25.zip) |
+| 25% | 50% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-25-Fall-50.zip) |
+| 25% | 75% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-25-Fall-75.zip) |
+| 25% | 100% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-25-Fall-100.zip) |
+| 50% | 0% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-50-Fall-0.zip) |
+| 50% | 25% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-50-Fall-25.zip) |
+| 50% | 50% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-50-Fall-50.zip) |
+| 50% | 75% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-50-Fall-75.zip) |
+| 50% | 100% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-50-Fall-100.zip) |
+| 75% | 0% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-75-Fall-0.zip) |
+| 75% | 25% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-75-Fall-25.zip) |
+| 75% | 50% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-75-Fall-50.zip) |
+| 75% | 75% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-75-Fall-75.zip) |
+| 75% | 100% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-75-Fall-100.zip) |
+| 100% | 0% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-100-Fall-0.zip) |
+| 100% | 25% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-100-Fall-25.zip) |
+| 100% | 50% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-100-Fall-50.zip) |
+| 100% | 75% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-100-Fall-75.zip) |
+| 100% | 100% | [Download](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0.zip) |
