@@ -1,5 +1,3 @@
-![Fire & Fall cover](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-cover.png)
-
 # Fire & Fall
 
 **Give fire and gravity the finger.**
@@ -40,27 +38,3 @@ If the log reports **REFUSE**, **ERR** or **FATAL**, retain the log and follow t
 6. Only then remove the Fire & Fall package and its helper, then deploy again.
 
 Follow these restoration steps before replacing the package, switching to a conflicting mod or updating the game.
-
----
-
-## GitHub downloads
-
-Description above copied from [Fire & Fall on AyakaMods](https://ayakamods.com/mods/fire-fall.5603/). The main package below is the 100%/100% release described there. The other files provide the requested 50%/100% settings combinations for **Steam build 26088801**.
-
-| Fire protection | Fall protection | ZIP |
-| --- | --- | --- |
-| 100% | 100% | [Main release with the new cover and Arsenal feather](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0.zip) |
-| 50% | 50% | [Individual variant](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-50-Fall-50.zip) |
-| 50% | 100% | [Individual variant](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-50-Fall-100.zip) |
-| 100% | 50% | [Individual variant](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-100-Fall-50.zip) |
-| 100% | 100% | [Individual variant with earlier artwork](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-v1.0-Fire-100-Fall-100.zip) |
-
-Install **one ZIP at a time**. These are alternative downloads of the same mod identity. The two 100%/100% packages use identical gameplay data. GitHub’s automatic **Source code** archives are documentation snapshots, not installable mods.
-
-[Cover](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-cover.png) · [Arsenal feather](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/Fire-and-Fall-Arsenal.png) · [SHA-256 checksums](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.0-build26088801/SHA256SUMS.txt)
-
-### Package notes
-
-Fire & Fall, JAR-5, Slidedivers and MG-206 replace `generated_entities.dl_bin`; Chef does not merge those whole-file replacements. Restore before switching.
-
-The presets edit the shared Helldiver template. This upload reuses the existing package bytes and adds no new gameplay or multiplayer validation.
