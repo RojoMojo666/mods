@@ -2,7 +2,7 @@
 
 | Mod | Versions and downloads |
 | --- | --- |
-| [HELLSLIDERS / Slidedivers – Tribes](slidedivers-tribes/README.md) | [Original (OG) and Faster](https://github.com/RojoMojo666/mods/releases/tag/slidedivers-tribes-v1.0-build26088801) |
+| [HELLSLIDERS / Slidedivers – Tribes](slidedivers-tribes/README.md) | [Original (OG) and Faster](https://github.com/RojoMojo666/mods/releases/tag/slidedivers-tribes-v1.0-build26251122) |
 | [Fire & Fall](https://github.com/RojoMojo666/mods/releases/tag/fire-and-fall-v1.0-build26088801) | Fire/fall protection variants; full guide below |
 
 ---
