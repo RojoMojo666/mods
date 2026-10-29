@@ -1,6 +1,6 @@
 # HELLSLIDERS / Slidedivers – Tribes
 
-![HELLSLIDERS – Tribes Mode Only](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26088801/HELLSLIDERS-Tribes-cover.png)
+![HELLSLIDERS – Tribes Mode Only](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/HELLSLIDERS-Tribes-cover.png)
 
 **For when spreading democracy on foot starts to feel unnecessarily upright.**
 
@@ -10,14 +10,14 @@ This file-mod edition applies movement settings directly, removing the earlier r
 
 [HELLSLIDERS on AyakaMods](https://ayakamods.com/mods/hellsliders-sliding-mod.4349/)
 
-**Version 1.0 · Helldivers 2 Steam build 26088801**
+**Version 1.0 · Helldivers 2 Steam build 26251122**
 
 ## Choose your version
 
 | Version | Flat speed | Downhill speed | Uphill speed | Download |
 | --- | --- | --- | --- | --- |
-| **Original Tribes (OG)** | 1.7× | 2.2× | 1.15× | [Download Original](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26088801/Slidedivers-Tribes-v1.0-Chef-Compatible.zip) |
-| **Tribes Faster** | 2.0× | 4.2× | 1.15× | [Download Faster](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26088801/Slidedivers-Tribes-Faster-v1.0-Chef-Compatible.zip) |
+| **Original Tribes (OG)** | 1.7× | 2.2× | 1.15× | [Download Original](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/Slidedivers-Tribes-v1.0-build26251122-Chef-Compatible.zip) |
+| **Tribes Faster** | 2.0× | 4.2× | 1.15× | [Download Faster](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/Slidedivers-Tribes-Faster-v1.0-build26251122-Chef-Compatible.zip) |
 
 Multipliers are relative to stock settings. Faster changes only flat and downhill slide speed. Uphill and all other Tribes gameplay settings are identical to Original.
 
@@ -65,4 +65,4 @@ Complete restoration before replacing the package, switching presets or updating
 
 Use **one overlapping preset at a time**. Original Tribes, Tribes Faster, JAR-5, MG-206, Fire & Fall and other mods that replace `generated_entities.dl_bin` cannot be applied together as complete file replacements. Chef does not merge them. Restore the active preset before switching.
 
-[Release and downloads](https://github.com/RojoMojo666/mods/releases/tag/slidedivers-tribes-v1.0-build26088801) · [Checksums](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26088801/SHA256SUMS.txt)
+[Release and downloads](https://github.com/RojoMojo666/mods/releases/tag/slidedivers-tribes-v1.0-build26251122) · [Checksums](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/SHA256SUMS.txt)
