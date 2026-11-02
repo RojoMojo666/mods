@@ -14,16 +14,16 @@ This file-mod edition applies movement settings directly, removing the earlier r
 
 ## Choose your version
 
-| Version | Flat speed | Downhill speed | Uphill speed | Download |
-| --- | --- | --- | --- | --- |
-| **Original Tribes (OG)** | 1.7× | 2.2× | 1.15× | [Download Original](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/Slidedivers-Tribes-v1.0-build26251122-Chef-Compatible.zip) |
-| **Tribes Faster** | 2.0× | 4.2× | 1.15× | [Download Faster](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/Slidedivers-Tribes-Faster-v1.0-build26251122-Chef-Compatible.zip) |
+| Version | Flat duration | Uphill duration | Flat speed | Downhill speed | Uphill speed | Download |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Original Tribes (OG)** | 4× | 1.75× | 1.7× | 2.2× | 1.15× | [Download Original](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/Slidedivers-Tribes-v1.0-build26251122-Chef-Compatible.zip) |
+| **Tribes Faster** | 4× | 1.75× | 2.0× | 4.2× | 1.15× | [Download Faster](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/Slidedivers-Tribes-Faster-v1.0-build26251122-Chef-Compatible.zip) |
+| **Tribes Oxygenator** | 1.5× | 1.0× (vanilla) | 2.0× | 4.2× | 1.15× | [Download Tribes Oxygenator](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/Slidedivers-Tribes-Oxygenator-v1.0-build26251122-Chef-Compatible.zip) |
 
-Multipliers are relative to stock settings. Faster changes only flat and downhill slide speed. Uphill and all other Tribes gameplay settings are identical to Original.
+Multipliers are relative to stock settings. Tribes Oxygenator keeps Faster’s speed settings and downhill duration, while setting flat slide duration to 1.5× and uphill duration to vanilla (1.0×).
 
-Both versions share:
+Original Tribes and Tribes Faster share **4× flat**, **1.75× uphill** and **5.2× downhill** slide duration. All three versions share:
 
-- Slide duration: **4× flat**, **1.75× uphill**, **5.2× downhill**.
 - Slide stamina cost: **35% of normal**.
 - Steep slopes: quicker slide entry, faster automatic sliding and stronger downhill pull.
 - Dirt buildup while sliding: **75% of normal**.
@@ -37,7 +37,7 @@ Both versions share:
 
 1. **Close the game.** Restore and remove any existing Tribes version or conflicting settings mod using the uninstall steps below.
 2. Import **one Tribes ZIP** and the **Chef Shared Loader ZIP** separately into your mod manager.
-3. Enable **Slidedivers - Tribes** for Original, or **Slidedivers - Tribes Faster** for Faster. Also enable that package’s **Uninstall helper** and **Chef Shared Loader**.
+3. Enable **Slidedivers - Tribes** for Original, **Slidedivers - Tribes Faster** for Faster, or **Slidedivers - Tribes Oxygenator** for the Oxygenator variant. Also enable that package’s **Uninstall helper** and **Chef Shared Loader**.
 4. Give **Chef the highest priority**. In Arsenal, use last/bottom when **Last mod highest priority** is selected, or first/top when **First mod highest priority** is selected. See [Chef’s installation guide](https://github.com/Th3chef/Chef-Shared-Loader#readme).
 5. Deploy the enabled mods.
 6. Launch to the main menu, then **exit normally through the game’s menu**.
@@ -53,7 +53,7 @@ If the log reports **REFUSE**, **ERR** or **FATAL**, retain the log and follow t
 **Restore the original settings before removing the package.**
 
 1. Close the game.
-2. Disable **Slidedivers - Tribes** or **Slidedivers - Tribes Faster**, whichever you installed. Keep its **Uninstall helper** and **Chef Shared Loader** enabled.
+2. Disable whichever you installed: **Slidedivers - Tribes**, **Slidedivers - Tribes Faster** or **Slidedivers - Tribes Oxygenator**. Keep its **Uninstall helper** and **Chef Shared Loader** enabled.
 3. Keep Chef at the highest priority, then deploy.
 4. Launch to the main menu and exit normally.
 5. Confirm restoration of `generated_entities.dl_bin` in `HD2FileMods.log`.
@@ -63,6 +63,6 @@ Complete restoration before replacing the package, switching presets or updating
 
 ## Compatibility
 
-Use **one overlapping preset at a time**. Original Tribes, Tribes Faster, JAR-5, MG-206, Fire & Fall and other mods that replace `generated_entities.dl_bin` cannot be applied together as complete file replacements. Chef does not merge them. Restore the active preset before switching.
+Use **one overlapping preset at a time**. Original Tribes, Tribes Faster, Tribes Oxygenator, JAR-5, MG-206, Fire & Fall and other mods that replace `generated_entities.dl_bin` cannot be applied together as complete file replacements. Chef does not merge them. Restore the active preset before switching.
 
 [Release and downloads](https://github.com/RojoMojo666/mods/releases/tag/slidedivers-tribes-v1.0-build26251122) · [Checksums](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/SHA256SUMS.txt)
